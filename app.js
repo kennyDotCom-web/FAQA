@@ -14,5 +14,7 @@ faqItems.forEach((faqItem) => {
         answer.style.display = 'block';
         image.src = './assets/images/icon-minus.svg'
     })
+
+    minus 2
     
 })
